@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780276080480",
+    "project_id": "caffeinated-nf",
+    "storage_bucket": "caffeinated-nf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780276080480:android:9985d7f7659c0467ba4805",
+        "android_client_info": {
+          "package_name": "com.madhu.caffeinated.caffeinated"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780276080480-573v47rnsb084io47sj4ha1lrslvjcdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCal5vsz0D0Wwas_siwYSn-vSdP5VVHSM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780276080480-573v47rnsb084io47sj4ha1lrslvjcdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
